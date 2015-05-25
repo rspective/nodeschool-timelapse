@@ -9,7 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "raspicam": "^0.2.13",
-    "fs": "0.0.2",
+    "raspicam": "^0.2.13"
   }
 }
